@@ -4,9 +4,7 @@ Projet web dynamique: Annuaire
 
 #installation
 
-1.Cloner le repository:
-
-https://github.com/fatihabarkani/annuaire
+Dezipper le dossier examenBarkani
 
 installer composer ->avec la commande "compose install".
 exécuter les migrations qui se trouvent dans le folder "migrations".
